@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Andy&#x27;s Bird Blog</title>
-    <link href="https://binohead.github.io/feed.xml" rel="self" />
-    <link href="https://binohead.github.io" />
+    <link href="https://binohead.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://binohead.github.io/gh-pages" />
     <updated>2023-07-16T12:20:46-03:00</updated>
     <author>
         <name>Andy</name>
     </author>
-    <id>https://binohead.github.io</id>
+    <id>https://binohead.github.io/gh-pages</id>
 
     <entry>
         <title>Perennial Sow-thistle</title>
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/perennial-sow-thistle.html"/>
-        <id>https://binohead.github.io/perennial-sow-thistle.html</id>
-        <media:content url="https://binohead.github.io/media/posts/11/hawkweed-2.jpg" medium="image" />
+        <link href="https://binohead.github.io/gh-pages/perennial-sow-thistle.html"/>
+        <id>https://binohead.github.io/gh-pages/perennial-sow-thistle.html</id>
+        <media:content url="https://binohead.github.io/gh-pages/media/posts/11/hawkweed-2.jpg" medium="image" />
             <category term="plants"/>
             <category term="iseek"/>
 
         <updated>2023-07-16T12:20:46-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://binohead.github.io/media/posts/11/hawkweed-2.jpg" alt="sow-thistle" />
+                        <img src="https://binohead.github.io/gh-pages/media/posts/11/hawkweed-2.jpg" alt="sow-thistle" />
                     A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. Why&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/media/posts/11/hawkweed-2.jpg" class="type:primaryImage" alt="sow-thistle" /></p>
+                    <p><img src="https://binohead.github.io/gh-pages/media/posts/11/hawkweed-2.jpg" class="type:primaryImage" alt="sow-thistle" /></p>
                 <p>A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. Why would I feature it? Partly because I keep mixing up all the plants that look like that, for instance hawkweed ...</p>
-<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/media/posts/11/hawkweed.jpg" alt="" width="333" height="592" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/media/posts/11/responsive/hawkweed-xs.jpg 384w ,https://binohead.github.io/media/posts/11/responsive/hawkweed-sm.jpg 600w ,https://binohead.github.io/media/posts/11/responsive/hawkweed-md.jpg 768w ,https://binohead.github.io/media/posts/11/responsive/hawkweed-lg.jpg 1200w ,https://binohead.github.io/media/posts/11/responsive/hawkweed-xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/gh-pages/media/posts/11/hawkweed.jpg" alt="" width="333" height="592" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-xl.jpg 1600w"></figure>
 <p>... many of which are edible, more (wild lettuce) or less (hawkweed?? I don't know).<br><br>But mainly, I posted it because I've always wondered about its milky sap. I see from the trusted internet that its milkiness is why the plant was fed to lactating sows, and thus the name. But I wasn't satisfied with that answer (being a seeker of the Truth and all).<br><br>I still don't have an answer, perhaps because I have the wrong question: why do sow thistles, milkweed, dandelions, etc etc all have milky sap?  Perhaps there's no answer, because they're each there for a different reason.<br><br>But they have at least some aspects in common, besides that they're white. For instance, I read that sow thistle latex was used as chewing gum, like milkweed was. Then again, I also read that it's used to cure warts, which is a new one on me.<br><br>So maybe it's a question for you readers out there. Why do all those plants have a milky sap? Oh yeah, you can't answer because I didn't code comments into this. And I haven't made this blog public anyway.<br><br>Oh well, I'll just have to keep Seeking.</p>
             ]]>
         </content>
@@ -41,22 +41,22 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/owl-power.html"/>
-        <id>https://binohead.github.io/owl-power.html</id>
-        <media:content url="https://binohead.github.io/media/posts/10/featured.jpg" medium="image" />
+        <link href="https://binohead.github.io/gh-pages/owl-power.html"/>
+        <id>https://binohead.github.io/gh-pages/owl-power.html</id>
+        <media:content url="https://binohead.github.io/gh-pages/media/posts/10/featured.jpg" medium="image" />
             <category term="birds"/>
             <category term="birding"/>
 
         <updated>2022-07-04T16:31:51-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://binohead.github.io/media/posts/10/featured.jpg" alt="" />
+                        <img src="https://binohead.github.io/gh-pages/media/posts/10/featured.jpg" alt="" />
                     Crows were making a racket in a corner of the Royal Annapolis Royal Gardens (did I get the name right?).
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/media/posts/10/featured.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/gh-pages/media/posts/10/featured.jpg" class="type:primaryImage" alt="" /></p>
                 <p data-sourcepos="17:1-17:207">Crows were making a racket in a corner of the Royal Annapolis Royal Gardens (did I get the name right?). But what really got my attention was that it wasn't just crows, but robins, grackles, and others, too.</p>
 <p data-sourcepos="19:1-19:366">While my companions looked at the flowers (the garden has an astounding array of heritage roses, cultivars of heather, others - anyway, just plants), I hunted down what the fuss was about. I came up empty, and was about to give up, when I thought I might have seen the tell-tale tiger pattern that could be a Great-horned Owl's underside, or could be just tree bark.</p>
 <p data-sourcepos="21:1-21:490">I was glad I persisted in finding the right place to view the tree from. It was surprisingly far from the tree (had to take out a few heirloom roses along the way, but it was worth it). And, also surprising, the crows had given up by then, by which point I used to give up searching, thinking that if an owl was there, they'd persist. But I've recently found that rule doesn't hold at all; crows really are smart enough to back off if the owl hasn't moved and there's a creepy human around.</p>
@@ -69,20 +69,20 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/mewing-echoes-of-the-crazy-fall.html"/>
-        <id>https://binohead.github.io/mewing-echoes-of-the-crazy-fall.html</id>
-        <media:content url="https://binohead.github.io/media/posts/9/IMG_1634.JPG" medium="image" />
+        <link href="https://binohead.github.io/gh-pages/mewing-echoes-of-the-crazy-fall.html"/>
+        <id>https://binohead.github.io/gh-pages/mewing-echoes-of-the-crazy-fall.html</id>
+        <media:content url="https://binohead.github.io/gh-pages/media/posts/9/IMG_1634.JPG" medium="image" />
 
         <updated>2018-02-22T07:49:16-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://binohead.github.io/media/posts/9/IMG_1634.JPG" alt="" />
+                        <img src="https://binohead.github.io/gh-pages/media/posts/9/IMG_1634.JPG" alt="" />
                     There's a Gray Catbird in my local patch this winter that everybody sees except me. It's driving me nuts. But&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/media/posts/9/IMG_1634.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/gh-pages/media/posts/9/IMG_1634.JPG" class="type:primaryImage" alt="" /></p>
                 <p>There's a Gray Catbird in my local patch this winter that everybody sees except me. It's driving me nuts.</p>
 <p>But that's what catbirds do. The skulk. They lurk. Now you see them, now you don't. They live up to their name, <em>Dumetella </em>(little one of the thorny bushes).</p>
 <p>Thus they've appeared throughout the winter now and then, here and there, where they were first spotted in the fall (local readers: these include Point Pleasant Park, Conrose Park, Atlantic Theological Seminary, and lots of rose bushes in Dartmouth).</p>
@@ -101,20 +101,20 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html"/>
-        <id>https://binohead.github.io/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html</id>
-        <media:content url="https://binohead.github.io/media/posts/8/IMG_1894.JPG" medium="image" />
+        <link href="https://binohead.github.io/gh-pages/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html"/>
+        <id>https://binohead.github.io/gh-pages/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html</id>
+        <media:content url="https://binohead.github.io/gh-pages/media/posts/8/IMG_1894.JPG" medium="image" />
 
         <updated>2018-02-20T18:02:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://binohead.github.io/media/posts/8/IMG_1894.JPG" alt="" />
+                        <img src="https://binohead.github.io/gh-pages/media/posts/8/IMG_1894.JPG" alt="" />
                     The Red-necked Grebe in the photo was unusually close to shore in the harbour. Five off my patch this afternoon reminded&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/media/posts/8/IMG_1894.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/gh-pages/media/posts/8/IMG_1894.JPG" class="type:primaryImage" alt="" /></p>
                 <p>The Red-necked Grebe in the photo was unusually close to shore in the harbour. Five off my patch this afternoon reminded me: my first field guides called them Holboell's Grebes.</p>
 <p>That's <a href="https://en.wikipedia.org/wiki/Carl_Peter_Holb%C3%B8ll" title="Carl Peter Holbøll">Carl Peter Holbøl</a>, who was Denmark's Royal Inspector of Colonies and Whaling back in the day (1820s). This species was one of the specimens he sent back from Greenland, and a professor named it after him. Holboell named species; Hornemann's Redpoll is a botanist he knew.</p>
 <p>Alas, Hoelboell's bird (like Hornemann's) was deemed, years later, to be a mere subspecies of Red-necked Grebe. And so the young kids don't even know Holboell's name any more. Then again, its genus is still <em>Podiceps</em>, which means "anus foot", because grebes' feet are so close to their butts. So not all is lost.</p>
@@ -126,8 +126,8 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/fifth-post.html"/>
-        <id>https://binohead.github.io/fifth-post.html</id>
+        <link href="https://binohead.github.io/gh-pages/fifth-post.html"/>
+        <id>https://binohead.github.io/gh-pages/fifth-post.html</id>
 
         <updated>2018-02-19T16:06:09-04:00</updated>
             <summary>
@@ -146,8 +146,8 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/fourth-post.html"/>
-        <id>https://binohead.github.io/fourth-post.html</id>
+        <link href="https://binohead.github.io/gh-pages/fourth-post.html"/>
+        <id>https://binohead.github.io/gh-pages/fourth-post.html</id>
 
         <updated>2018-02-19T16:05:49-04:00</updated>
             <summary>
@@ -166,8 +166,8 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/third-post.html"/>
-        <id>https://binohead.github.io/third-post.html</id>
+        <link href="https://binohead.github.io/gh-pages/third-post.html"/>
+        <id>https://binohead.github.io/gh-pages/third-post.html</id>
 
         <updated>2018-02-19T16:05:30-04:00</updated>
             <summary>
@@ -186,21 +186,21 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/second-post.html"/>
-        <id>https://binohead.github.io/second-post.html</id>
-        <media:content url="https://binohead.github.io/media/posts/4/Pic-1-sm.jpg" medium="image" />
+        <link href="https://binohead.github.io/gh-pages/second-post.html"/>
+        <id>https://binohead.github.io/gh-pages/second-post.html</id>
+        <media:content url="https://binohead.github.io/gh-pages/media/posts/4/Pic-1-sm.jpg" medium="image" />
 
         <updated>2018-02-21T15:38:13-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://binohead.github.io/media/posts/4/Pic-1-sm.jpg" alt="" />
+                        <img src="https://binohead.github.io/gh-pages/media/posts/4/Pic-1-sm.jpg" alt="" />
                     Here's another post by Andy.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/media/posts/4/Pic-1-sm.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image--left"><img loading="lazy"  src="https://binohead.github.io/media/posts/4/Pic-1.jpg" alt="Tufted" width="40" height="30" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/media/posts/4/responsive/Pic-1-xs.jpg 384w ,https://binohead.github.io/media/posts/4/responsive/Pic-1-sm.jpg 600w ,https://binohead.github.io/media/posts/4/responsive/Pic-1-md.jpg 768w ,https://binohead.github.io/media/posts/4/responsive/Pic-1-lg.jpg 1200w ,https://binohead.github.io/media/posts/4/responsive/Pic-1-xl.jpg 1600w"></figure>Here's another post by Andy.
+                    <p><img src="https://binohead.github.io/gh-pages/media/posts/4/Pic-1-sm.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image--left"><img loading="lazy"  src="https://binohead.github.io/gh-pages/media/posts/4/Pic-1.jpg" alt="Tufted" width="40" height="30" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-xl.jpg 1600w"></figure>Here's another post by Andy.
             ]]>
         </content>
     </entry>
@@ -209,8 +209,8 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/the-first-post.html"/>
-        <id>https://binohead.github.io/the-first-post.html</id>
+        <link href="https://binohead.github.io/gh-pages/the-first-post.html"/>
+        <id>https://binohead.github.io/gh-pages/the-first-post.html</id>
 
         <updated>2018-02-19T08:21:06-04:00</updated>
             <summary>
@@ -220,11 +220,11 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full" ><img loading="lazy" src="https://binohead.github.io/media/posts/1/RegurgCartoon.jpg" alt="Burp" width="320" height="382" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/media/posts/1/responsive/RegurgCartoon-xs.jpg 384w ,https://binohead.github.io/media/posts/1/responsive/RegurgCartoon-sm.jpg 600w ,https://binohead.github.io/media/posts/1/responsive/RegurgCartoon-md.jpg 768w ,https://binohead.github.io/media/posts/1/responsive/RegurgCartoon-lg.jpg 1200w ,https://binohead.github.io/media/posts/1/responsive/RegurgCartoon-xl.jpg 1600w">
+                <figure class="post__image post__image--full" ><img loading="lazy" src="https://binohead.github.io/gh-pages/media/posts/1/RegurgCartoon.jpg" alt="Burp" width="320" height="382" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-xl.jpg 1600w">
 <figcaption >Put your caption here</figcaption>
 </figure>
 Here I test the first post of my new website.
-<figure class="post__image post__image--right" ><img loading="lazy" src="file://https://binohead.github.io/media/posts/1//8SummerStWolfville.tiff" alt="The house" width="486" height="392">
+<figure class="post__image post__image--right" ><img loading="lazy" src="file://https://binohead.github.io/gh-pages/media/posts/1//8SummerStWolfville.tiff" alt="The house" width="486" height="392">
 <figcaption >Here's the house</figcaption>
 </figure>
 <p>And I'm liking the looks of the place.</p>
