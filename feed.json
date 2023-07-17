@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://binohead.github.io/gh-pages/confusing-fall-warblers.html",
+            "url": "https://binohead.github.io/gh-pages/confusing-fall-warblers.html",
+            "title": "Confusing fall warblers",
+            "summary": "A common misconception, which I share (until reminded by brute fact) is that August is too early for bird migration.",
+            "content_html": "<p>A common misconception, which I share (until reminded by brute fact) is that August is too early for bird migration. Apart from shorebirds, which crazily start in July, southward movements don't really get rolling until September.<br><br>But (and here's the brute fact) here's a Palm Warbler I saw in my patch today. It was one of my yearly reminders that I should get looking for fall migrants way earlier in August than my instincts tell me. Sure, it's possible that some of the birds I see are locally raised youngsters, like this yellow-rumped<br><br></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://binohead.github.io/gh-pages/media/posts/13/yrwa.jpg\" alt=\"\" width=\"2592\" height=\"1944\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-xl.jpg 1600w\"></figure>\n<p><br><br>or this black-throated green:<br><br></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://binohead.github.io/gh-pages/media/posts/13/btnw.jpg\" alt=\"\" width=\"2592\" height=\"1944\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-xl.jpg 1600w\"></figure>\n<p><br><br>But really, it's pretty unlikely that Nashville Warbler (which I didn't get a picture of) and Palm Warbler would nest successfully in Point Pleasant Park.</p>",
+            "image": "https://binohead.github.io/gh-pages/media/posts/13/featured.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+                   "birding"
+            ],
+            "date_published": "2023-07-17T07:26:56-03:00",
+            "date_modified": "2023-07-17T07:31:47-03:00"
+        },
+        {
             "id": "https://binohead.github.io/gh-pages/some-kind-of-holly.html",
             "url": "https://binohead.github.io/gh-pages/some-kind-of-holly.html",
             "title": "Some kind of holly",
@@ -59,6 +75,21 @@
             ],
             "date_published": "2022-07-04T16:30:34-03:00",
             "date_modified": "2022-07-04T16:31:51-03:00"
+        },
+        {
+            "id": "https://binohead.github.io/gh-pages/the-woodland-vulture.html",
+            "url": "https://binohead.github.io/gh-pages/the-woodland-vulture.html",
+            "title": "The Woodland Vulture",
+            "summary": "I thought I knew the drill. It was closer to the start of my walk than I'd expected, so perhaps&hellip;",
+            "content_html": "<p>I thought I knew the drill. It was closer to the start of my walk than I'd expected, so perhaps it was all caused by a cat hanging out near the park entrance. But a whole whack of not just crows but also jays yelling like crazy had to be checked out.<br><br>So when I did walk a bit farther into the park, toward the yelling birds, I scanned carefully for that cryptic owl or other raptor that might slip away once I got too close to it and the corvids mobbing it. That's normally quite hard to do, so I was surprised when I could clearly see everyone - and neither owl nor cat.<br><br>I gave up and moved on, but something made me take a last look that seemed to reveal a raven in the middle of it all. That was nearly the end of it, since crows often get overwraught over ravens, but wait - the raven had a more complex shape, more like two crows preening each other.<br><br>Then, like a necker cube or that rabbit/fist illusion, the two crows morphed into the hunched posture of a vulture. What a vulture was doing in the middle of the woods was my next question, but that thought only came after the awesome coolness of the moment had had its way with me.<br><br>And anyway, my next task, in truth, was to make sure it was a Turkey, and not a Black, Vulture, which'd be way rare. It didn't look like one to me, but I still got out my Sibley and pored through the marks, the most useful on a perched bird being the tail - long in the Turkey and way shorter in the Black.<br><br>The next cool birds to appear in the park were discovered by others, but this sighting tamped my jealousy of them a bit. It might not have been an eBird rarity, but it was a pretty awesome patch sighting.</p>",
+            "image": "https://binohead.github.io/gh-pages/media/posts/14/featured.jpg",
+            "author": {
+                "name": "Andy"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-06T12:27:00-04:00",
+            "date_modified": "2023-07-17T12:29:03-03:00"
         },
         {
             "id": "https://binohead.github.io/gh-pages/mewing-echoes-of-the-crazy-fall.html",
@@ -131,35 +162,6 @@
             ],
             "date_published": "2018-02-19T16:05:30-04:00",
             "date_modified": "2018-02-19T16:05:30-04:00"
-        },
-        {
-            "id": "https://binohead.github.io/gh-pages/second-post.html",
-            "url": "https://binohead.github.io/gh-pages/second-post.html",
-            "title": "Second post",
-            "summary": "Here's another post by Andy.",
-            "content_html": "<figure class=\"post__image--left\"><img loading=\"lazy\"  src=\"https://binohead.github.io/gh-pages/media/posts/4/Pic-1.jpg\" alt=\"Tufted\" width=\"40\" height=\"30\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/4/responsive/Pic-1-xl.jpg 1600w\"></figure>Here's another post by Andy.",
-            "image": "https://binohead.github.io/gh-pages/media/posts/4/Pic-1-sm.jpg",
-            "author": {
-                "name": "Andy"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-02-19T15:04:10-04:00",
-            "date_modified": "2018-02-21T15:38:13-04:00"
-        },
-        {
-            "id": "https://binohead.github.io/gh-pages/the-first-post.html",
-            "url": "https://binohead.github.io/gh-pages/the-first-post.html",
-            "title": "The first post",
-            "summary": "Put your caption here Here I test the first post of my new website. Here's the house And I'm liking&hellip;",
-            "content_html": "<figure class=\"post__image post__image--full\" ><img loading=\"lazy\" src=\"https://binohead.github.io/gh-pages/media/posts/1/RegurgCartoon.jpg\" alt=\"Burp\" width=\"320\" height=\"382\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/1/responsive/RegurgCartoon-xl.jpg 1600w\">\n<figcaption >Put your caption here</figcaption>\n</figure>\nHere I test the first post of my new website.\n<figure class=\"post__image post__image--right\" ><img loading=\"lazy\" src=\"file://https://binohead.github.io/gh-pages/media/posts/1//8SummerStWolfville.tiff\" alt=\"The house\" width=\"486\" height=\"392\">\n<figcaption >Here's the house</figcaption>\n</figure>\n<p>And I'm liking the looks of the place.</p>",
-            "author": {
-                "name": "Andy"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-12-01T14:02:08-04:00",
-            "date_modified": "2018-02-19T08:21:06-04:00"
         }
     ]
 }
