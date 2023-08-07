@@ -3,12 +3,35 @@
     <title>Andy&#x27;s Bird Blog</title>
     <link href="https://binohead.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://binohead.github.io/gh-pages" />
-    <updated>2023-07-17T12:29:03-03:00</updated>
+    <updated>2023-08-07T08:21:41-03:00</updated>
     <author>
         <name>Andy</name>
     </author>
     <id>https://binohead.github.io/gh-pages</id>
 
+    <entry>
+        <title>Flat-topped Goldenrod</title>
+        <author>
+            <name>Andy</name>
+        </author>
+        <link href="https://binohead.github.io/gh-pages/flat-topped-goldenrod.html"/>
+        <id>https://binohead.github.io/gh-pages/flat-topped-goldenrod.html</id>
+        <media:content url="https://binohead.github.io/gh-pages/media/posts/15/featured.jpg" medium="image" />
+
+        <updated>2023-08-07T08:21:41-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://binohead.github.io/gh-pages/media/posts/15/featured.jpg" alt="" />
+                    The best the app could do on other goldenrods was, well, goldenrod. But for this one, the species popped up&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://binohead.github.io/gh-pages/media/posts/15/featured.jpg" class="type:primaryImage" alt="" /></p>
+                <p>The best the app could do on other goldenrods was, well, goldenrod. But for this one, the species popped up right away. Apparently it, along with 10 or so other species, stands out so much from *Solidago* that they were all recently split into their own genus.<br><br>It's wicked common in waste places, so is a good one to learn. It's host plant to *Coleophora intermediella*, which is one of those cool elongated moths with the long antennae that's also quite distinctive, and that I should post on later.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Confusing fall warblers</title>
         <author>
@@ -234,26 +257,6 @@
         <content type="html">
             <![CDATA[
                 And yet another one by himself.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Third post</title>
-        <author>
-            <name>Andy</name>
-        </author>
-        <link href="https://binohead.github.io/gh-pages/third-post.html"/>
-        <id>https://binohead.github.io/gh-pages/third-post.html</id>
-
-        <updated>2018-02-19T16:05:30-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Here's another post by the great one.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Here's another post by the great one.
             ]]>
         </content>
     </entry>
